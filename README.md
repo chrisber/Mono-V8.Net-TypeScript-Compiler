@@ -20,7 +20,7 @@ This project contains:
     + libicuuc.so
     + libv8.so
 
-
+All libraries compiled with Ubuntu 14.04 x64
 
 Execute it form commandline via 
 `LD_LIBRARY_PATH="pwd" MONO_LOG_LEVEL=debug MONO_LOG_MASK=all mono testv8.exe
